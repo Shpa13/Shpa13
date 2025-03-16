@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Shpa13's github stats](https://readme-stats-gd54sgsbl.vercel.app/api?username=shpa13&count_private=true&show_icons=true&theme=dark&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shpa13&layout=compact)](https://github.com/Shpa13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpa13&layout=compact)](https://github.com/shpa13/github-readme-stats)
 <!--
 **Shpa13/Shpa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
